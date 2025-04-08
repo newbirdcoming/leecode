@@ -1,2 +1,5 @@
 # leecode
-记录自己的刷题过程、以及解决思路
+### 博客链接
+https://blog.csdn.net/LanJieZhiFu
+
+该仓库主要记录个人刷题笔记
